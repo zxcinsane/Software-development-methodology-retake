@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events>
+    <event  title="Event 1" author="Author 1" announcement="Announcement 1" description="Description 1" date="Date 1" place="Place 1" category="Category 1"/>
+    <event  title="Event 2" author="Author 2" announcement="Announcement 2" description="Description 2" date="Date 2" place="Place 2" category="Category 2"/>
+    <event  title="Event 3" author="Author 3" announcement="Announcement 3" description="Description 3" date="Date 3" place="Place 3" category="Category 3"/>
+</events>

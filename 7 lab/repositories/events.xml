@@ -1,0 +1,27 @@
+<events>
+  <event id="1">
+    <title>Event 1</title>
+    <author>Author 1</author>
+    <announcement>Announcement 1</announcement>
+    <description>Description 1</description>
+    <date>Date 1</date>
+    <place>Place 1</place>
+    <category>Category 1</category>
+  </event>
+  <event id="2">
+    <title>Event 2</title>
+    <author>Author 2</author>
+    <announcement>Announcement 2</announcement>
+    <description>Description 2</description>
+    <date>Date 2</date>
+    <place>Place 2</place>
+    <category>Category 2</category>
+  </event>
+    <title>Event 3</title>
+    <author>Author 3</author>
+    <announcement>Announcement 3</announcement>
+    <description>Description 3</description>
+    <date>Date 3</date>
+    <place>Place 3</place>
+    <category>Category 3</category>
+</events>
